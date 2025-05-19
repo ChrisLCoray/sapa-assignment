@@ -1,26 +1,46 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+    --background: #ffffff;
+    --foreground: #171717;
+    --color-green1: #103c00;
+    --color-green2: #35711f;
+    --color-green3: #60a543;
+    --color-green4: #e6efc5;
+    --color-tan1: #4f463c;
+    --color-tan2: #e7cbaf;
+    --color-grey1: #333333;
+    --color-grey2: #808080;
+    --color-grey3: #f2f2f2;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+    --color-background: var(--background);
+    --color-foreground: var(--foreground);
+    --color-green1: var(--color-green1);
+    --color-green2: var(--color-green2);
+    --color-green3: var(--color-green3);
+    --color-green4: var(--color-green4);
+    --color-tan1: var(--color-tan1);
+    --color-tan2: var(--color-tan2);
+    --color-grey1: var(--color-grey1);
+    --color-grey2: var(--color-grey2);
+    --color-grey3: var(--color-grey3);
+    --font-sans: var(--font-geist-sans);
+    --font-mono: var(--font-geist-mono);
+    --font-montserrat: var(--font-montserrat);
+    --font-ubuntu: var(--font-ubuntu-condensed);
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+    :root {
+        --background: --color-grey1;
+        --foreground: --color-green4;
+    }
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+    background: var(--background);
+    color: var(--color-green1);
+    font-family: Arial, Helvetica, sans-serif;
 }

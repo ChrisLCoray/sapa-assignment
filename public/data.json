@@ -1,0 +1,205 @@
+{
+    "events": [
+        {
+            "audience": "New Patients and Renewals",
+            "eventEndTime": "2023-10-03T14:00:00.000",
+            "eventLink": "#",
+            "eventStartTime": "2023-10-03T09:00:00.000",
+            "location": "Downtown SLC"
+        },
+        {
+            "audience": "Renewals Only",
+            "eventEndTime": "2023-10-19T16:00:00.000",
+            "eventLink": "#",
+            "eventStartTime": "2023-10-19T09:00:00.000",
+            "location": "Price"
+        },
+        {
+            "audience": "Special Event for Veterns",
+            "eventEndTime": "2023-11-10T14:00:00.000",
+            "eventLink": "#",
+            "eventStartTime": "2023-11-10T10:00:00.000",
+            "location": "<Other Location>"
+        }
+    ],
+    "faqs": [
+        {
+            "href": "#",
+            "text": "If I don't qualify, do i still have to pay the QMP?"
+        },
+        {
+            "href": "#",
+            "text": "What are Utah's qualifying medical conditions?"
+        },
+        {
+            "href": "#",
+            "text": "Is documentation required to prove you have a medical condition?"
+        },
+        {
+            "href": "#",
+            "text": "If I have a medical cannabis card, can I consume in public?"
+        },
+        {
+            "href": "#",
+            "text": "What are the eligiblity requirements for a Utah medical cannabis card?"
+        },
+        {
+            "href": "#",
+            "text": "What is the complete cost to get a medical cannabis card?"
+        },
+        {
+            "href": "#",
+            "text": "How long does it take to receive your card?"
+        },
+        {
+            "href": "#",
+            "text": "Where can I purchase medical cannabis in Utah?"
+        },
+        {
+            "href": "#",
+            "text": "Can I grow my own cannabis plants with a medical cannabis card?"
+        },
+        {
+            "href": "#",
+            "text": "How long is a medical cannabis card valid?"
+        },
+        {
+            "href": "#",
+            "text": "Is my personal information confidential when applying for a medical cannabis card?"
+        }
+    ],
+    "menuLinks": [
+        {
+            "href": "#",
+            "text": "APPOINTMENTS"
+        },
+        {
+            "href": "#",
+            "text": "MEDICAL CARD INFO"
+        },
+        {
+            "href": "#",
+            "text": "FAQs"
+        },
+        {
+            "href": "#",
+            "text": "PHARMACIES"
+        },
+        {
+            "href": "#",
+            "text": "ABOUT"
+        }
+    ],
+    "pharmacies": [
+        {
+            "href": "http://www.dragonflywellness.com/",
+            "locations": [
+                {
+                    "address": "711 South State Street, Salt Lake City UT 84111",
+                    "phone": "801-413-6945"
+                },
+                {
+                    "address": "20 Main Street, Price UT 84501",
+                    "phone": "435-637-3770"
+                }
+            ],
+            "name": "Dragonfly Wellness",
+            "special": "New Patient Specials",
+            "specialLink": "#"
+        },
+        {
+            "href": "http://www.blocdispensary.com/",
+            "locations": [
+                {
+                    "address": "10392 South Jordan Gateway South Jordan UT 84095",
+                    "phone": "385-249-9400"
+                },
+                {
+                    "address": "1624 S Convention Center Dr. St. George UT 84790",
+                    "phone": "435-216-3400"
+                }
+            ],
+            "name": "Bloc Pharmacy"
+        },
+        {
+            "href": "http://www.beehivefarmacy.com/",
+            "locations": [
+                {
+                    "address": "1991 S 3600 W Salt Lake City UT 84004",
+                    "phone": "385-212-0088"
+                },
+                {
+                    "address": "870 W 1150 S Suite C Brigham City UT 84032",
+                    "phone": "435-919-0966"
+                }
+            ],
+            "name": "Beehive Farmacy"
+        },
+        {
+            "href": "http://www.gocannabist.com/",
+            "locations": [
+                {
+                    "address": "484 South 1750 West Springville UT 84663",
+                    "phone": "385-327-0922"
+                }
+            ],
+            "name": "Cannabist"
+        },
+        {
+            "href": "http://www.curaleaf.com/",
+            "locations": [
+                {
+                    "address": "3633 N Thanksgiving Way, Lehi UT 84043",
+                    "phone": "385-338-8010"
+                },
+                {
+                    "address": "1351 Kearns Blvd Suite 110-B Park City UT 84060",
+                    "phone": "435-252-1052"
+                },
+                {
+                    "address": "222 N Draper Ln Provo UT 84601",
+                    "phone": "801-872-7447"
+                },
+                {
+                    "address": "757 S 1040 W Payson UT 84651",
+                    "phone": "385-404-4422"
+                }
+            ],
+            "name": "Curaleaf"
+        },
+        {
+            "href": "http://www.theflowershopusa.com/",
+            "locations": [
+                {
+                    "address": "3775 S Wall Ave South Odgen UT 84405",
+                    "phone": "385-289-1800(Ext 1)"
+                },
+                {
+                    "address": "2150 N Main St. Suite 1 North Logan UT 84341",
+                    "phone": "385-289-1800(Ext 2)"
+                }
+            ],
+            "name": "The Flower Shop"
+        },
+        {
+            "href": "http://www.wholesome.co/",
+            "locations": [
+                {
+                    "address": "580 W 100 N Suite 1, West Bountiful UT 84010",
+                    "phone": "801-695-4480"
+                }
+            ],
+            "name": "WholesomeCo"
+        },
+        {
+            "href": "http://www.zionmed.co/",
+            "locations": [
+                {
+                    "address": "301 S Main St. Cedar City UT 84720",
+                    "phone": "435-244-4485"
+                }
+            ],
+            "name": "Zion Medicinal"
+        }
+    ]
+}
